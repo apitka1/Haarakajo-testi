@@ -52,10 +52,10 @@ Mitä sinun pitää tehdä
 
 Vertailuksi: tämän repon oikea Dependabot-PR (#1) näyttää pitkän englanninkielisen muutoslistan, mutta ei kerro, vaikuttaako päivitys tähän projektiin.
 
-- Tilanne
+## Tilanne
 
 Haarakajo on vasta idea-asteella. Mitään ei vielä seurata eikä testata automaattisesti.
 
-- Kerro mielipiteesi
+## Kerro mielipiteesi
 
 Jos kehität ohjelmistoa ja riippuvuuspäivitykset ovat joskus vaivana, kuulisin mielelläni, mikä niissä on hankalinta: haarakajo@polsia.io
