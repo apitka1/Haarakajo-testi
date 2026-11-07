@@ -1,0 +1,6 @@
+{
+  "name": "haarakajo-testi",
+  "version": "1.0.0",
+  "scripts": { "test": "node test.js" },
+  "dependencies": { "lodash": "4.17.15" }
+}
